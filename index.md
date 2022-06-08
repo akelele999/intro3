@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog name lelelelelelelelelele
-author: lelelelelele
+author: lele
 ---
 
